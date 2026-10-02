@@ -4,7 +4,7 @@ Rellena automáticamente `MEDICAMENTOS.xlsx` a partir de la columna **Nombre**:
 
 | Columna | De dónde sale |
 |---|---|
-| API/Comercial | Si el nombre es una marca → su principio activo. Si es un principio activo → sus dos marcas comercializadas más antiguas en España. |
+| API/Comercial |  Si el nombre es una marca → su principio activo. Si es un principio activo → sus dos marcas comercializadas más antiguas en España. |
 | Principio activo (inglés) | Nombre oficial de la OMS (INN) según el código ATC. |
 | Descripción / Área | Según el código ATC (hojas *Descripciones* y *Áreas* de `reglas.xlsx`). |
 | Mylead, Paris, INOCA, COP, COMPLETE-2, ANGIODAPT | Categoría de cada ensayo según el código ATC (hoja *Categorías* de `reglas.xlsx`). |
