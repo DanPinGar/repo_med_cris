@@ -1,0 +1,13 @@
+MYLEAD 
+	IECAs/ARAII, Beta-blockers, ARNI, Aldosterone receptor antagonists, Diuretics, Aspirin, P2Y12 inhibitor, NOAC, Anti-vitamina K, Amiodarone, Calcium channel blockers, Others
+COPERNICAN
+	Aspirin, P2Y12 inhibitor, Oral anticoagulation, IECA/ARA II, Beta-blocker, Statin, Ezetimibe, others	
+PARIS
+	ASA, P2Y12 Inhibitor, Oral anticoagulation, Statin, Ezetimibe, PCSK9 Inhibitor, ACE inhibitor, Angiotensin II receptor antagonists, Beta blocker, Nitrates,Diuretic, Calcium antagonist, Aldosterone antagonist, Oral antidiabetics,Insulin, Proton pump inhibitor,Oral iron, Corticosteroids, others
+INOCA
+	ASA, P2Y12 Inhibitor, ACEI/ARB, Beta-blocker, Calcium Antagonist, Nitrates, Ranolazine, Ivabradina, Diuretic ASA, Statins, Antidepressant drugs, others
+COMPLETE-2
+	Statins, P2Y12 Inhibitors, Oral Anticoagulants, ACE Inhibitors/ARB, ASA, Beta-blockers, Calcium Channel Blockers, Insulin, Long-acting Nitrates, Oral Hypoglycemic Agents ,PCSK9 Inhibitors, SGLT2 Inhibitors, Semaglutide, Tirzepatide, Other GLP-1 Receptor Agonist, Bempedoic acid, Ezetimibe, others
+ANGIODAPT
+	Aspirin, Anti-platelet therapy, Oral Anticoagulation, ACE inhibitor, AT-II, Beta-blockers, Hypolipemic Agents, Statins, Other lipid lowering drugs, Ezetimibe, PCSK9 Inhibitor, Proton pump inhibitor, Insulin, Oral hypoglycemic agents, Other drugs, Long-term steroid or NSAID (except aspirin)
+Long-term steroid or NSAID use
